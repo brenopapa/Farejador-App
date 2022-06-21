@@ -1,16 +1,6 @@
-# flutter_app
+# Farejador-App
 
-A new Flutter project.
+Graduation project for FATEC Rubens Lara in the first semester of 2022.
+App developed using Flutter Framework.
+This app uses a simple text database to show the user a list of products and its locations in given markets, making them easy to find.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
